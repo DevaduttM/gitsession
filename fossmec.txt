@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Foss mec is an opensource club.
-=======
 Foss mec is good
->>>>>>> dev
