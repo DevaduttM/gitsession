@@ -1,1 +1,2 @@
 FOSS MEC is a good club.
+Foss is conducting a session on git 
